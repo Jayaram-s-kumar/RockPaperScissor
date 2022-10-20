@@ -22,7 +22,7 @@ function getComputerChoice(_computerChoice) {
     return choice[randomNumber];
 }
 
-
+//Life will always be genrous to those who pursue their dreams
 function game(userChoice) { 
 
     const computerChoice = getComputerChoice();
